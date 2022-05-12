@@ -1,0 +1,18 @@
+baseURL: "https://www.golangroma.it/"
+languageCode: "it-it"
+title: "Golang Roma"
+theme: "PaperMod"
+enableEmoji: true
+googleAnalytics: G-VJ6WSD4SWZ
+
+params:
+  homeInfoParams:
+    Title: "![](images/avatar.jpg)  Benvenuti! 👋"
+    Content: |
+      Sito del Golang Roma
+
+  socialIcons: # optional
+    - name: github
+      url: "https://github.com/golangroma"
+    - name: twitter
+      url: https://twitter.com/golangroma
