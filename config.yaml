@@ -11,7 +11,7 @@ params:
 
   profileMode:
     enabled: true
-    subtitle: "Seguici sui nostri canali!"
+    subtitle: "Seguici sui nostri canali"
     imageUrl: "images/golangroma.png" # optional
     imageWidth: 170 # custom size
     imageHeight: 170 # custom size
@@ -21,3 +21,7 @@ params:
       url: "https://github.com/golangroma"
     - name: twitter
       url: https://twitter.com/golangroma
+    - name: telegram
+      url: https://t.me/+-2rfddb0IhQzN2Ri
+    - name: meetup
+      url: https://meetup.com/golangroma
