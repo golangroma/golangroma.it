@@ -6,10 +6,15 @@ enableEmoji: true
 googleAnalytics: G-VJ6WSD4SWZ
 
 params:
-  homeInfoParams:
-    Title: "![](images/avatar.jpg)  Benvenuti! 👋"
-    Content: |
-      Sito del Golang Roma
+  defaultTheme: light
+  disableThemeToggle: true
+
+  profileMode:
+    enabled: true
+    subtitle: "Seguici sui nostri canali!"
+    imageUrl: "images/golangroma.png" # optional
+    imageWidth: 170 # custom size
+    imageHeight: 170 # custom size
 
   socialIcons: # optional
     - name: github
