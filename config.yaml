@@ -23,5 +23,7 @@ params:
       url: https://twitter.com/golangroma
     - name: telegram
       url: https://t.me/+-2rfddb0IhQzN2Ri
+    - name: youtube
+      url: https://youtube.com/channel/UCiMlT250vckF5KT53Z5xVUQ
     - name: meetup
       url: https://meetup.com/golangroma
